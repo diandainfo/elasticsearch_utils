@@ -1,0 +1,19 @@
+{
+  "name": "elasticsearch_utils",
+  "version": "0.0.1",
+  "description": "elasticsearch工具集",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diandainfo/elasticsearch_utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diandainfo/elasticsearch_utils/issues"
+  },
+  "private": true,
+  "author": "上海店达信息技术有限公司",
+  "license": "MIT",
+  "dependencies": {
+    "elasticsearch": "^13.2.0"
+  }
+}
